@@ -102,6 +102,7 @@ def main():
         ["9", "9"],
         ["PW*FP", "BackSpace"],
         ["R-R", "Return"],
+        ["S-P", "space"],
         ["SP*S", ""],
         ["STPH-B", "Right"],
         ["STPH-G", "Down"],
