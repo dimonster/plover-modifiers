@@ -100,6 +100,7 @@ def main():
         ["7", "7"],
         ["8", "8"],
         ["9", "9"],
+        ["KH-FG", "grave"],
         ["PW*FP", "BackSpace"],
         ["R-R", "Return"],
         ["S-P", "space"],
