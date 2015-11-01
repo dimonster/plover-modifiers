@@ -106,6 +106,7 @@ def main():
         ["R-R", "Return"],
         ["S-P", "space"],
         ["SP*S", ""],
+        ["SPWHRAERB", "backslash"],
         ["STPH-B", "Right"],
         ["STPH-G", "Down"],
         ["STPH-P", "Up"],
