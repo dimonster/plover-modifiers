@@ -101,6 +101,7 @@ def main():
         ["8", "8"],
         ["9", "9"],
         ["KH-FG", "grave"],
+        ["KW-BG", "comma"],
         ["PW*FP", "BackSpace"],
         ["R-R", "Return"],
         ["S-P", "space"],
